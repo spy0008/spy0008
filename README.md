@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning full stack web development.
+- 📫 How to reach me: namansompura2@gmail.com
+
 <!--
 **spy0008/spy0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

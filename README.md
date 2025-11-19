@@ -2,7 +2,7 @@
 
 My name is naman, and i'm an sheriyens coding school trained web developer interested in AI-powered web sites and animated 3d web sites! 
 
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently learning full stack development.
 - 📫 How to reach me: namansompura2@gmail.com
 
 <!--
